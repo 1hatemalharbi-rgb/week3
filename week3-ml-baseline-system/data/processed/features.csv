@@ -1,0 +1,6 @@
+user_id,country,total_amount,n_orders,avg_amount,is_high_value
+1,SA,150.0,3,50.0,1
+2,AE,45.0,1,45.0,0
+3,KW,200.0,4,50.0,1
+4,US,30.0,1,30.0,0
+5,UK,500.0,10,50.0,1
